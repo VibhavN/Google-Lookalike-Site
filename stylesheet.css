@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.list-non-bullet {
+    list-style: none;
+    text-align: right;
+    
+}
+
+.list-item-inline {
+    display: inline;
+    
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    font: 13px arial;
+}
